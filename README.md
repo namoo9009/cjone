@@ -1,4 +1,4 @@
-# 더테이스터블
+# CJ ONE
 마우스 호버와 클릭에 반응하는 다양한 인터렉션 기법을 익히기 위해 CJONE의 메인 페이지를 클론 코딩 하였고, JS의 이해도를 높이기 위해 jQeury로 작성한 코드를 JS로 변경
 - 미리보기 : https://namoo9009.github.io/cjone/
 - 실제 사이트 : https://www.cjone.com/cjmweb/main.do
